@@ -1,5 +1,7 @@
 Simple Dice game
 
-Things to do : * Make it mobile responsive
-               * The color combination is piece of shit.
+A list of technologies used within the project:
+* [Technology name](https://example.com): Version 12.3 
+* [Technology name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
                
