@@ -22,7 +22,7 @@ document.querySelector(".btn").addEventListener
 
             // If player one wins
             if (randomImageName1 > randomImageName2) {
-                document.querySelector("h1").innerHTML = "Fuck yeah. I win";
+                document.querySelector("h1").innerHTML = "I win";
             }
             // If player two winsAC
             else if (randomImageName1 < randomImageName2) {
