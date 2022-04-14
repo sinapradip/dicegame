@@ -22,11 +22,11 @@ document.querySelector(".btn").addEventListener
 
             // If player one wins
             if (randomImageName1 > randomImageName2) {
-                document.querySelector("h1").innerHTML = "Player 1 Wins!";
+                document.querySelector("h1").innerHTML = "Fuck yeah. I win";
             }
             // If player two winsAC
             else if (randomImageName1 < randomImageName2) {
-                document.querySelector("h1").innerHTML = "Player 2 Wins!";
+                document.querySelector("h1").innerHTML = "You win this time";
             }
             // If player one and two tie
             else {
