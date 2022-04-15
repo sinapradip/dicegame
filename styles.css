@@ -46,7 +46,7 @@ footer {
   margin-top: 5%;
   color: var(--creamWhite);
   text-align: center;
-  
+  margin-bottom: 3rem;
 
 }
 .rollButton{
@@ -65,4 +65,10 @@ footer {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+}
+#hide{
+  font-size: 16px;
+}
+#you,#me,#hide{
+  display: none;
 }
