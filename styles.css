@@ -72,3 +72,8 @@ footer {
 #you,#me,#hide{
   display: none;
 }
+
+#makeThisBig{
+  font-weight: bold;
+  font-size: large;
+}
